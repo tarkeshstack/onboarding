@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://tarkeshstack.github.io/onboarding/sitemap.xml
